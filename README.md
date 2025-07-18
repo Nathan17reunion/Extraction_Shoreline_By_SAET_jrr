@@ -1,6 +1,6 @@
-# Analyse de la Dynamique Côtière à La Réunion (2015-2025)
+# DETECTION AUTOMATIQUE DU TRAIT DE CÔTE DE LA RÉUNION SUR UNE SÉRIE TEMPORELLE D'IMAGES SENTINEL-2 DE 2015 À 2025
 
-<p align="center">***PyDSAS_Reunion_Island***</p>
+<p align="center">***TRAITEMENT AVEC L'OUTIL [SAET](https://github.com/jpalomav/SAET_master) (Shoreline Automated and Extraction Tool)***</p>
 
 <p align="center">***👋 HELLO & WELCOME!***</p>
 
@@ -12,7 +12,6 @@
 
 <p align="center">This project aims not only to analyze coastal dynamics but also to validate the shoreline positions obtained through automatic detection using the SAET tool.</p>
 
-![Illustration littorale moderne]([https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=800&q=80](https://github.com/Nathan17reunion/Extraction_Shoreline_By_SAET_jrr/blob/main/Beach_code.png))
 
 ## Introduction
 
@@ -71,10 +70,10 @@ Ce projet vise à documenter, traiter et analyser la dynamique multi-temporelle 
 
 ## Ressources et Documentation
 
-- [Script de sélection Sentinel-2]([lien_script_selection](https://github.com/jpalomav/SAET_master/blob/main/sp_searching_run.py))
-- [Module SAET (extraction)]([lien_saet](https://github.com/jpalomav/SAET_master/blob/main/sp_processing_run.py))
-- [Correction & fusion des traits de côte](lien_correction)
-- [PyDSAS (analyse spatiale)]([lien_pydsas](https://github.com/Nathan17reunion/PyDSAS_Reunion_Island/blob/main/PyDSAS.py))
+- [Script de sélection Sentinel-2](https://github.com/jpalomav/SAET_master/blob/main/sp_searching_run.py)
+- [Module SAET (extraction)](https://github.com/jpalomav/SAET_master/blob/main/sp_processing_run.py)
+- [Correction & fusion des traits de côte](https://github.com/Nathan17reunion/Extraction_Shoreline_By_SAET_jrr/blob/main/Correction_TDC.py)
+- [PyDSAS (analyse spatiale)](https://github.com/Nathan17reunion/PyDSAS_Reunion_Island/blob/main/PyDSAS.py)
 
 ---
 
@@ -93,6 +92,25 @@ Ce projet vise à documenter, traiter et analyser la dynamique multi-temporelle 
 
 > Ce dépôt a pour vocation de servir de base sur la dynamique littorale de La Réunion, et toute remarque/collaboration est bienvenue.
 
+Nous accueillons chaleureusement toute contribution, amélioration ou suggestion pour enrichir ce projet et ses analyses.   
+Pour faciliter votre implication, voici des ressources clés liées à ce travail :
+
+- **Rédaction en cours du rapport de stage** : [Document Google Docs collaboratif](https://docs.google.com/document/d/190akoMxUDB6AHJ9KRo8jI1dy8AUbmUYjJdoy6uzg9Jw/edit?tab=t.0)  
+  (Vous êtes invité(e) à consulter, commenter ou proposer des modifications)
+
+- **Version finale du rapport** (mis en forme professionnelle avec LaTeX) : [Projet Overleaf](https://www.overleaf.com/project/685e25af1c60a82c10462f55)  
+  (Accès en lecture, n’hésitez pas à faire des retours pour enrichir le contenu)
+
+---
+
+Votre expertise, idées ou contributions techniques seront très appréciées pour renforcer la qualité, l’ergonomie et l’impact de cette étude.  
+Que vous soyez spécialiste en géomatique, en traitement d’images satellitaires, en modélisation côtière ou simplement curieux, votre aide est bienvenue !
+
+N’hésitez pas à ouvrir une issue ou proposer une pull request. Ensemble, nous pouvons faire avancer la compréhension de la dynamique littorale à La Réunion.
+
+---
+
+![Illustration littorale moderne](https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=800&q=80](https://github.com/Nathan17reunion/Extraction_Shoreline_By_SAET_jrr/blob/main/Beach_code.png)
 
 ---
 
