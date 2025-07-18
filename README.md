@@ -5,6 +5,13 @@
   <img src="https://github.com/Nathan17reunion/PyDSAS_Reunion_Island/blob/main/images/univ_tana.png" alt="Logo 5" width="90"/>
 </p>
 
+<p align="center">
+  <img src="https://github.com/Nathan17reunion/PyDSAS_Reunion_Island/blob/main/images/univ_reunion.png" alt="Logo 5" width="180"/>
+  <img src="https://github.com/Nathan17reunion/PyDSAS_Reunion_Island/blob/main/images/fac_sciences_univ_reunion.png" alt="Logo 6" width="180"/>
+  <img src="https://raw.githubusercontent.com/Nathan17reunion/PyDSAS_Reunion_Island/main/images/images.jpg" alt="Logo 6" width="60"/>
+  <img src="https://raw.githubusercontent.com/Nathan17reunion/PyDSAS_Reunion_Island/main/images/Sans%20titre-1.png" alt="Logo 6" width="180"/>
+</p>
+
 <p align="center">***TRAITEMENT AVEC L'OUTIL SAET (Shoreline Automated and Extraction Tool)***</p>
 
 <p align="center">***👋 HELLO & WELCOME!***</p>
@@ -81,11 +88,6 @@ Ce projet vise à documenter, traiter et analyser la dynamique multi-temporelle 
 
 ---
 
-## Structure du Dépôt GitHub
-
-
----
-
 ## Conseils pour lecture/enrichissement du projet
 
 - **Reproductibilité :** Chaque script possède un mode automatique et manuel, conçu pour l’archivage et la transmission scientifique.
@@ -118,4 +120,19 @@ N’hésitez pas à ouvrir une issue ou proposer une pull request. Ensemble, nou
 
 ---
 
-*Merci et bonne exploration !*
+<p align="center">***Thank you for visiting my git!***</p>
+
+> ### **Contact**
+> 🏠 Cité Internationale   
+> 97490 Saint-Denis La Réunion (France)  
+> ✉️ [jrayan.mitantsoanyhaja@gmail.com](mailto:jrayan.mitantsoanyhaja@gmail.com)
+>   
+> 📞 +262 693 81 23 59  
+> 
+>  <a href="https://www.facebook.com/profile.php?id=61571394063716">
+>   <img src="https://img.freepik.com/psd-gratuit/conception-du-logo-medias-sociaux_23-2151296987.jpg?semt=ais_hybrid&w=740" alt="Facebook" width="28" />
+>   Jonathan Rayan Rower
+> </a>
+
+<p align="center">🌍 I am passionate about Earth sciences and tropical environments, with a special interest in:
+🛰️ remote sensing, 🚜 agriculture, 🌋 seismology, 🌊 oceanography, 🏖️ beaches and coral reefs, 🏝️ coastal geomorphology, ⚠️ natural hazards, 🤝 volunteering, 🐍 Python programming, 📊 data analysis with R, 💧 hydrology, and much more!</p>
