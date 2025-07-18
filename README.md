@@ -1,5 +1,17 @@
 # Analyse de la Dynamique Côtière à La Réunion (2015-2025)
 
+<p align="center">***PyDSAS_Reunion_Island***</p>
+
+<p align="center">***👋 HELLO & WELCOME!***</p>
+
+![Bannière LinkedIn](https://raw.githubusercontent.com/Nathan17reunion/PyDSAS_Reunion_Island/main/images/Banni%C3%A8re%20LinkedIn%20professionnel%20moderne%20marketing%20orange%20noir.png)
+
+<p align="center">**Jonathan Rayan Rower MITANTSOA NY HAJA HARILALA**</p>
+
+<p align="center"> 🎓 🌍 🛰️ 🌊 🏖️ 🐍 💧 💻  🌐 📄 📚 🎯 🤝 </p>
+
+<p align="center">This project aims not only to analyze coastal dynamics but also to validate the shoreline positions obtained through automatic detection using the SAET tool.</p>
+
 ![Illustration littorale moderne]([https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=800&q=80](https://github.com/Nathan17reunion/Extraction_Shoreline_By_SAET_jrr/blob/main/Beach_code.png))
 
 ## Introduction
@@ -12,7 +24,7 @@ Ce projet vise à documenter, traiter et analyser la dynamique multi-temporelle 
 
 ### 1. Sélection & Prétraitement des Données Satellite
 
-- **Critère de couverture nuageuse** : max 30 % pour chaque année, afin d’assurer un échantillonnage homogène.
+- **Critère de couverture nuageuse** : [**max 30 %**]([https://github.com/jpalomav/SAET_master](https://colab.research.google.com/drive/1eaZ2gPq6NLtHNE8UdS0oXeqNdcGytrdg#scrollTo=qTDxCiLDXIkh)) pour chaque année, afin d’assurer un échantillonnage homogène.
 - **Téléchargement automatisé** : scripts pour recenser toutes les scènes et contrôler la concordance entre le nombre d’images téléchargées et traitées.
 - **Gestion annuelle** : les années 2015-2016-2017 sont fusionnées en raison du faible nombre d’images en 2015.
 
@@ -32,7 +44,7 @@ Ce projet vise à documenter, traiter et analyser la dynamique multi-temporelle 
 
 - **Fusion des traits de côte** annuels pour délimiter la mobilité sur 2015-2025.
 - **Extraction par cellule et site d’étude** pour la production de statistiques fines et cartes thématiques.
-- **Application de l’outil PyDSAS** (écrit pour Linux) afin de :
+- **Application du programme PyDSAS** (écrit pour Linux) afin de :
   - générer une baseline automatique,
   - calculer LRR, EPR, WLR, NSM, SCE,
   - exporter CSV et shapefiles pour cartographie/QGIS.
@@ -59,10 +71,10 @@ Ce projet vise à documenter, traiter et analyser la dynamique multi-temporelle 
 
 ## Ressources et Documentation
 
-- [Script de sélection Sentinel-2](lien_script_selection)
-- [Module SAET (extraction)](lien_saet)
+- [Script de sélection Sentinel-2]([lien_script_selection](https://github.com/jpalomav/SAET_master/blob/main/sp_searching_run.py))
+- [Module SAET (extraction)]([lien_saet](https://github.com/jpalomav/SAET_master/blob/main/sp_processing_run.py))
 - [Correction & fusion des traits de côte](lien_correction)
-- [PyDSAS (analyse spatiale)](lien_pydsas)
+- [PyDSAS (analyse spatiale)]([lien_pydsas](https://github.com/Nathan17reunion/PyDSAS_Reunion_Island/blob/main/PyDSAS.py))
 
 ---
 
@@ -79,7 +91,7 @@ Ce projet vise à documenter, traiter et analyser la dynamique multi-temporelle 
 
 ---
 
-> Ce dépôt a pour vocation de servir de base à d’autres analyses littorales à La Réunion ou dans l’Océan Indien, et toute remarque/collaboration est bienvenue.
+> Ce dépôt a pour vocation de servir de base sur la dynamique littorale de La Réunion, et toute remarque/collaboration est bienvenue.
 
 
 ---
