@@ -1,5 +1,10 @@
 # DETECTION AUTOMATIQUE DU TRAIT DE CÔTE DE LA RÉUNION SUR UNE SÉRIE TEMPORELLE D'IMAGES SENTINEL-2 DE 2015 À 2025
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Nathan17reunion/PyDSAS_Reunion_Island/main/images/Sans%20titre.jpg" alt="Logo 4" width="180"/>
+  <img src="https://github.com/Nathan17reunion/PyDSAS_Reunion_Island/blob/main/images/univ_tana.png" alt="Logo 5" width="90"/>
+</p>
+
 <p align="center">***TRAITEMENT AVEC L'OUTIL [SAET](https://github.com/jpalomav/SAET_master) (Shoreline Automated and Extraction Tool)***</p>
 
 <p align="center">***👋 HELLO & WELCOME!***</p>
@@ -10,8 +15,7 @@
 
 <p align="center"> 🎓 🌍 🛰️ 🌊 🏖️ 🐍 💧 💻  🌐 📄 📚 🎯 🤝 </p>
 
-<p align="center">This project aims not only to analyze coastal dynamics but also to validate the shoreline positions obtained through automatic detection using the SAET tool.</p>
-
+<p align="center">AUTOMATED SHORELINE DETECTION OF REUNION ISLAND USING A TEMPORAL SERIES OF SENTINE-2 IMAGES FROM 2015 TO 2025</p>
 
 ## Introduction
 
@@ -23,7 +27,7 @@ Ce projet vise à documenter, traiter et analyser la dynamique multi-temporelle 
 
 ### 1. Sélection & Prétraitement des Données Satellite
 
-- **Critère de couverture nuageuse** : [**max 30 %**]([https://github.com/jpalomav/SAET_master](https://colab.research.google.com/drive/1eaZ2gPq6NLtHNE8UdS0oXeqNdcGytrdg#scrollTo=qTDxCiLDXIkh)) pour chaque année, afin d’assurer un échantillonnage homogène.
+- **Critère de couverture nuageuse** : [**max 30 %**][https://github.com/jpalomav/SAET_master](https://colab.research.google.com/drive/1eaZ2gPq6NLtHNE8UdS0oXeqNdcGytrdg#scrollTo=qTDxCiLDXIkh) pour chaque année, afin d’assurer un échantillonnage homogène.
 - **Téléchargement automatisé** : scripts pour recenser toutes les scènes et contrôler la concordance entre le nombre d’images téléchargées et traitées.
 - **Gestion annuelle** : les années 2015-2016-2017 sont fusionnées en raison du faible nombre d’images en 2015.
 
@@ -110,7 +114,7 @@ N’hésitez pas à ouvrir une issue ou proposer une pull request. Ensemble, nou
 
 ---
 
-![Illustration littorale moderne](https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=800&q=80](https://github.com/Nathan17reunion/Extraction_Shoreline_By_SAET_jrr/blob/main/Beach_code.png)
+![Illustration littorale moderne](https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=800&q=80](https://github.com/Nathan17reunion/Extraction_Shoreline_By_SAET_jrr/blob/main/Beach_code.png))
 
 ---
 
