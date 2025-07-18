@@ -5,7 +5,7 @@
   <img src="https://github.com/Nathan17reunion/PyDSAS_Reunion_Island/blob/main/images/univ_tana.png" alt="Logo 5" width="90"/>
 </p>
 
-<p align="center">***TRAITEMENT AVEC L'OUTIL [SAET](https://github.com/jpalomav/SAET_master) (Shoreline Automated and Extraction Tool)***</p>
+<p align="center">***TRAITEMENT AVEC L'OUTIL SAET (Shoreline Automated and Extraction Tool)***</p>
 
 <p align="center">***👋 HELLO & WELCOME!***</p>
 
@@ -33,7 +33,7 @@ Ce projet vise à documenter, traiter et analyser la dynamique multi-temporelle 
 
 ### 2. Extraction et Correction des Traits de Côte
 
-- **Extraction automatisée** du trait de côte pour chaque scène via SAET avec masquage des nuages.
+- **Extraction automatisée** du trait de côte pour chaque scène via [SAET](https://github.com/jpalomav/SAET_master) avec masquage des nuages.
 - **Correction post-traitement** : suppression manuelle des traits aberrants, contrôle visuel et scripté pour valider l’alignement sur la High Water Line (HWL).
 - **Structuration par cellule hydro-sédimentaire** et sites d’étude, permettant une analyse multi-échelle.
 
@@ -114,7 +114,7 @@ N’hésitez pas à ouvrir une issue ou proposer une pull request. Ensemble, nou
 
 ---
 
-![Illustration littorale moderne](https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=800&q=80](https://github.com/Nathan17reunion/Extraction_Shoreline_By_SAET_jrr/blob/main/Beach_code.png))
+![Illustration littorale moderne]([https://github.com/Nathan17reunion/Extraction_Shoreline_By_SAET_jrr/blob/main/Beach_code.png](https://github.com/Nathan17reunion/Extraction_Shoreline_By_SAET_jrr/blob/main/Beach_code.png))
 
 ---
 
