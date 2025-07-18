@@ -123,7 +123,7 @@ N’hésitez pas à ouvrir une issue ou proposer une pull request. Ensemble, nou
 <p align="center">***Thank you for visiting my git!***</p>
 
 > ### **Contact**
-> 🏠 Cité Internationale   
+> 🏠 Résidence Le Parc   
 > 97490 Saint-Denis La Réunion (France)  
 > ✉️ [jrayan.mitantsoanyhaja@gmail.com](mailto:jrayan.mitantsoanyhaja@gmail.com)
 >   
