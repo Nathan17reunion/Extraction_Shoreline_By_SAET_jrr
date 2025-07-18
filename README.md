@@ -27,7 +27,7 @@ Ce projet vise à documenter, traiter et analyser la dynamique multi-temporelle 
 
 ### 1. Sélection & Prétraitement des Données Satellite
 
-- **Critère de couverture nuageuse** : [**max 30 %**][https://github.com/jpalomav/SAET_master](https://colab.research.google.com/drive/1eaZ2gPq6NLtHNE8UdS0oXeqNdcGytrdg#scrollTo=qTDxCiLDXIkh) pour chaque année, afin d’assurer un échantillonnage homogène.
+- **Critère de couverture nuageuse** : [**max 30 %**]([https://colab.research.google.com/drive/1eaZ2gPq6NLtHNE8UdS0oXeqNdcGytrdg#scrollTo=qTDxCiLDXIkh](https://colab.research.google.com/drive/129-k3fK3jIHa9m0XrzR0xZ6waJ_wKdMx)) pour chaque année, afin d’assurer un échantillonnage homogène.
 - **Téléchargement automatisé** : scripts pour recenser toutes les scènes et contrôler la concordance entre le nombre d’images téléchargées et traitées.
 - **Gestion annuelle** : les années 2015-2016-2017 sont fusionnées en raison du faible nombre d’images en 2015.
 
@@ -40,8 +40,8 @@ Ce projet vise à documenter, traiter et analyser la dynamique multi-temporelle 
 ### 3. Association des Données Complémentaires
 
 - **Dates précises** extraites de chaque image, associées :
-  - aux données marégraphiques REFMAR,
-  - et aux données de houle CANDHIS pour valider/stabiliser les résultats.
+  - aux données marégraphiques [**REFMAR**](https://data.shom.fr/donnees/refmar/download#001=eyJjIjpbLTY2MjgwNyw1ODIyOTI3XSwieiI6NiwiciI6MCwibCI6W3sidHlwZSI6IklOVEVSTkFMX0xBWUVSIiwiaWRlbnRpZmllciI6IkZEQ19HRUJDT19QWVItUE5HXzM4NTdfV01UUyIsIm9wYWNpdHkiOjEsInZpc2liaWxpdHkiOnRydWV9XX0=),
+  - et aux données de houle [**CANDHIS**](https://candhis.cerema.fr/_public_/campagne.php?Y2FtcD05NzQwMw==) pour valider/stabiliser les résultats.
 
 ### 4. Fusion, Découpage et Analyse Dynamique
 
@@ -114,7 +114,7 @@ N’hésitez pas à ouvrir une issue ou proposer une pull request. Ensemble, nou
 
 ---
 
-![Illustration littorale moderne]([https://github.com/Nathan17reunion/Extraction_Shoreline_By_SAET_jrr/blob/main/Beach_code.png](https://github.com/Nathan17reunion/Extraction_Shoreline_By_SAET_jrr/blob/main/Beach_code.png))
+![Illustration littorale moderne](https://github.com/Nathan17reunion/Extraction_Shoreline_By_SAET_jrr/blob/main/Beach_code.png)
 
 ---
 
